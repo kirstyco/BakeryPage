@@ -1,0 +1,24 @@
+body { background-image: url("Images/GrayBG.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+
+.pageheader { text-align: center;
+}
+
+.mainarea { margin: 0 auto;
+		background-color: #b3cccc;
+		width: 1000px;
+		height: 500px;
+		border-radius: 25px;
+		padding: 20px;
+		text-align: center;
+}
+
+.cakebutt, .cookbutt, .muffbutt, .piebutt, .contactbutt { width: 100px;
+margin-right: 50px;
+border-radius: 12px;
+border: 2px solid #A0A0A0;
+font-family: Forte;
+font-size: 18px;
+}
